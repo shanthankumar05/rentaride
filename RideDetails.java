@@ -1,7 +1,4 @@
 
-RideDetails.java
-
-// --------------
 import java.util.Scanner;
 public class RideDetails extends CarInformation {
 	public static void main(String[] args) {
