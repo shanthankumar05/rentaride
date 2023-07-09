@@ -66,7 +66,7 @@ public class RideDetails extends CarInformation {
 		}
 		
 		total_charge = distance * 8;
-	    //System.out.println("Driver " + cardriver+ "will get you to the destination");
+
 		System.out.println("Your charge will be " + total_charge);
 
 	}
